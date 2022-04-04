@@ -165,7 +165,7 @@ export default function Home() {
               autoPlay
               ref={rawVideo}
               loop
-              controls
+              muted
             />
           </div>
           <div className="column">
